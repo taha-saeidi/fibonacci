@@ -1,1 +1,1 @@
-from functools import cachecj
+from functools import cache
