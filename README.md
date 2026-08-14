@@ -8,7 +8,7 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
 
 ![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
